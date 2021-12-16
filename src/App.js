@@ -39,7 +39,7 @@ export default function App() {
       <Header />
       <Routes>
         <Route
-          path="/home"
+          path="/"
           
           element={
             <Home
